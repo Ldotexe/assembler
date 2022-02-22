@@ -1,0 +1,7 @@
+push 0;
+push 10;
+add;
+push 11;
+mul;
+out;
+hlt;

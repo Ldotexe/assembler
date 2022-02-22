@@ -4,7 +4,7 @@
 #ifndef STACK_FUNCTIONS_H_INCLUDED
 #define STACK_FUNCTIONS_H_INCLUDED
 
-#define /*ZERO_LEVEL*/ /*FIRST_LEVEL*/ SECOND_LEVEL
+#define ZERO_LEVEL /*FIRST_LEVEL*/ /*SECOND_LEVEL*/
 
 typedef double elemen_t;
 typedef unsigned long long hash_t;

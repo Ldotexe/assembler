@@ -1,4 +1,4 @@
-DEFCMD("END", 0, )
+DEFCMD("END", 0, code)
 
 DEFCMD("PUSH", 1, {
       stack_push(&stack, code[ip+1])
